@@ -1,0 +1,115 @@
+*
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+}
+
+.mail
+{
+    float:left;
+    display:flex;
+    align-items: center;
+}
+
+.mail>span
+{
+    margin-left:10px;
+}
+
+.address>span
+{
+    margin-right:10px;
+}
+
+.address
+{
+    float:right;
+    display:flex;
+    align-items: center;
+}
+
+.mail>img
+{
+    width:40px;
+}
+
+.address>img
+{
+    width:40px;
+}
+
+.header
+{
+    height:45px;
+    border-bottom: 1px solid black;
+    padding:20px;
+}
+
+.list
+{
+    list-style-type: none;
+    padding:0;
+}
+
+.list>li
+{
+    display:flex;
+    align-items: center;
+    padding:5px;
+}
+
+.list>li:hover
+{
+    background-color:#F4E4E4;
+}
+
+.asideleft
+{
+    float:left;
+    width:20%;
+}
+
+.letters
+{
+    float:left;
+    width:70%;
+}
+
+.letterlist
+{
+    list-style-type: none;
+}
+
+.letterlist>li
+{
+    padding:10px;  
+    border-bottom: 1px solid lightgray;
+    display:flex;
+    justify-content: space-between;
+    padding-right:40px;
+}
+
+.star
+{
+    content: url(../icons_hw/star1.svg);
+    width:10px;
+    margin:5px;
+}
+
+.star:hover
+{
+    content: url(../icons_hw/star2.svg);
+}
+
+.clip
+{
+    height:15px;
+    margin:5px;
+}
+
+.content
+{
+    color:gray;
+}
+
+

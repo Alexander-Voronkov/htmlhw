@@ -1,0 +1,36 @@
+.list>li>span
+{
+    display:none;
+}
+
+.asideleft
+{
+    width:10%;
+}
+
+.letters
+{
+    width:90%;
+}
+
+.list>li
+{
+    justify-content: center;
+}
+
+.sender
+{
+    display:block;
+}
+
+.theme
+{
+    display:block;
+}
+
+.content
+{
+    display:block;
+}
+
+
