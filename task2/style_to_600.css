@@ -1,0 +1,24 @@
+.text
+{
+    float:none;
+    width:100%;
+}
+
+.part2
+{
+    float:none;
+    width:100%;
+}
+
+.image
+{
+    display:block;
+    width:100%;
+}
+
+.images
+{
+    width:100%;
+    float:none;
+    margin:0;
+}

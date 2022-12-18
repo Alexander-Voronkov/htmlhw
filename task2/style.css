@@ -1,0 +1,53 @@
+*
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p[name="cat"]
+{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text
+{
+    float:left;
+    width:65%;
+}
+
+.part2
+{
+    float:left;
+    width:65%;
+}
+
+.images
+{
+    width:30%;
+    float:right;
+    margin-left:5%;
+}
+
+.image>img
+{
+    display:block;
+    width:100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.image
+{
+    margin-top:10%;
+}
+
+.captionimg
+{
+    background-color:#37516C;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: right;
+    color:white;
+    padding:10px;
+}
+
